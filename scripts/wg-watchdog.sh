@@ -84,6 +84,8 @@ WIREGUARD_OFF_RESPONSE=$(curl -X POST \
 
 log $WIREGUARD_OFF_RESPONSE
 
+sleep 3
+
 log "Attempting to turn on WireGuard client..."
 
 WIREGUARD_ON_RESPONSE=$(curl -X POST \

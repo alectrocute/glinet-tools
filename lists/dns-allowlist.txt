@@ -1,0 +1,10 @@
+www.googleadservices.com
+googleads.g.doubleclick.net
+static.doubleclick.net
+ad.doubleclick.net
+ogads-pa.googleapis.com
+ads.snapchat.com
+snapchat.com
+ads-interfaces.sc-cdn.net
+pendo.io
+www.pendo.io

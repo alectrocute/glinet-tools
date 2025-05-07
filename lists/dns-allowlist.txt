@@ -1,3 +1,6 @@
+# Alec's DNS Allowlist
+
+# general surfing friction
 www.googleadservices.com
 googleads.g.doubleclick.net
 static.doubleclick.net
@@ -8,3 +11,15 @@ snapchat.com
 ads-interfaces.sc-cdn.net
 pendo.io
 www.pendo.io
+
+# firebog recommended
+s.shopify.com
+cdn.optimizely.com
+split.io
+
+# shorteners
+tinyurl.com
+ow.ly
+bit.ly
+www.bit.ly
+t.ly

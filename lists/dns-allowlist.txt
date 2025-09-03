@@ -23,3 +23,10 @@ ow.ly
 bit.ly
 www.bit.ly
 t.ly
+
+# delta-related
+dev.visualwebsiteoptimizer.com
+tms.delta.com
+p11.techlab-cdn.com
+pulse.delta.com
+cdn.trackjs.com

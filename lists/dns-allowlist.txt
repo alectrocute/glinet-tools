@@ -30,3 +30,6 @@ tms.delta.com
 p11.techlab-cdn.com
 pulse.delta.com
 cdn.trackjs.com
+
+# ihg-related
+link.stationbyuhc.com
